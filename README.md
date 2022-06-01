@@ -5,5 +5,7 @@
 
 - 📫 me puedes contactar por: anakarina.dev@gmail.com
 
+- Linkedin : https://www.linkedin.com/in/anakarina-nak/ 
+
 - 😄 un dato curioso : me gusta tomar té todo el dia.
 
