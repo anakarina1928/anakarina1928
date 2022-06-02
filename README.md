@@ -3,11 +3,11 @@
 
 - 🌱👩‍💻Front-end | Javascript | React | Node.js | git | Firebase | Figma | HTML5 | CSS
 
-- 📫 me puedes contactar por: anakarina.dev@gmail.com
+- 📫 Me puedes contactar por: anakarina.dev@gmail.com
 
-- Linkedin : https://www.linkedin.com/in/anakarina-nak/ 
+-  ![linkedin-circled--v2](https://user-images.githubusercontent.com/91761048/171521035-86b09a87-b92f-440d-bd52-2c40bbc71478.gif)
+https://www.linkedin.com/in/anakarina-nak/ 
 
-- 😄 ![icons8-linkedin-circled](https://user-images.githubusercontent.com/91761048/171520844-df521eb4-4136-41a4-9af1-82005d24e7b7.gif)
-un dato curioso : me gusta tomar té todo el dia.
+- 😄 Un dato curioso : me gusta tomar té todo el dia.
 
 
